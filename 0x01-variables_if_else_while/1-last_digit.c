@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * ain - assign a random number to the variable n each time it is executed and
+ * main - assign a random number to the variable n each time it is executed and
  * print whether the number stored in the variable n is positive or negative.
  *
  * Return: int
